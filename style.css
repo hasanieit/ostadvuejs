@@ -1,0 +1,29 @@
+.container {
+    margin: 0 auto;
+    width: 500px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  input {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .current-weather {
+    margin-top: 20px;
+  }
+  
+  .days-forecast {
+    margin-top: 20px;
+  }
